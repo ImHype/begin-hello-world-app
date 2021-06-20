@@ -16,7 +16,7 @@ let body = `
     </h1>
 
     <p class="center-text">
-      Your <a href="https://begin.com" class="link" target="_blank">Begin</a> app is ready to go now 2!
+      Your <a href="https://begin.com" class="link" target="_blank">Begin</a> app is ready to go now 3!
     </p>
 
   </body>
